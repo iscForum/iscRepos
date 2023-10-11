@@ -52,4 +52,4 @@ FileExpress는 자료교환시스템의 클립보드 전송 기능을 활용해 
 취약점 리포트 문서 참조
 
 # 프로그램 다운로드
-[클릭]("https://url.kr/3ckx1d")
+[클릭](https://url.kr/3ckx1d)
