@@ -4,19 +4,13 @@
 # 자료교환시스템 기능
 자료교환시스템은 기본적으로 ‘파일 전송’ 기능과 ‘클립보드 전송’ 기능을 제공합니다.
 
-![Alt Text](https://github.com/iscForum/iscRepos/blob/main/img/img1.png)
-
 <div align="center">
-<img src="https://github.com/iscForum/iscRepos/blob/main/img/img1.png" width="70%" height="auto">
+<img src="https://github.com/iscForum/iscRepos/blob/main/img/img1.png" width="80%" height="auto">
 </div>
 
 파일 전송 방식은 외부▸내부로 악성코드 유입 또는 내부▸외부로 중요문서를 유출하는 통로가 될 수 있으므로 관리자의 승인과 결재를 요구합니다. 반면 클립보드 전송 방식은 단순 텍스트만을 전송하므로 상대적으로 안전한 전송 방식으로 취급되어 별도의 승인 및 결재를 요구하지 않습니다.
 
-[도식]
-
 하지만 자료교환시스템 앞단에 특별한 용도로 제작된 전처리기를 배치시키면 안전하다고 여겨지던 클립보드 전송 방식에 맹점이 발생하게 되며, 이를 이용해 결재 승인 없이 파일을 자유롭게 주고받을 수 있게 됩니다.
-
-[도식]
 
 # 전처리기(FileExpress.exe)
 전처리기는 발신 측에서 파일의 raw 데이터를 분석해 비트 단위로 해체(disassemble)하고 해체된 정보를 문자화시켜 운영체제의 클립보드 공간으로 보냅니다. 자료교환시스템에서 클립보드 전송을 수행하면 수신 측은 전달받은 문자 형태의 정보를 파일의 raw 데이터 값으로 인식되도록 하는 재조립(reassemble) 과정을 거쳐 원래 파일을 생성해냅니다.
