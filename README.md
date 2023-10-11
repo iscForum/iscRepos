@@ -5,7 +5,7 @@
 자료교환시스템은 기본적으로 ‘파일 전송’ 기능과 ‘클립보드 전송’ 기능을 제공합니다.
 
 
-<div align="center" style="margin: 10px;">
+<div align="center" style="margin: 30px;">
 <img src="https://github.com/iscForum/iscRepos/blob/main/img/img1.png" width="80%" height="auto">
 </div>
 
