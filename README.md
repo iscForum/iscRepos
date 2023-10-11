@@ -6,7 +6,7 @@
 
 <br>
 <div align="center">
-<img src="https://github.com/iscForum/iscRepos/blob/main/img/img1.png" width="60%" height="auto">
+<img src="https://github.com/iscForum/iscRepos/blob/main/img/img1.png" width="600px" height="auto">
 </div>
 <br>
 
