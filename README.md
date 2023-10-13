@@ -61,7 +61,7 @@ FileExpress는 자료교환시스템의 클립보드 전송 기능을 활용해 
 
 <br>
 <div align="center">
-<img src="https://github.com/iscForum/iscRepos/blob/main/img/img3.png" width="600px" height="auto">
+<img src="https://github.com/iscForum/iscRepos/blob/main/img/img4.png" width="600px" height="auto">
 </div>
 <br>
 
