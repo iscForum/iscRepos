@@ -62,4 +62,4 @@ FileExpress는 자료교환시스템의 클립보드 전송 기능을 활용해 
 <img src="https://github.com/iscForum/iscRepos/blob/main/img/img4.png" width="600px" height="auto">
 
 # 프로그램 다운로드
-[클릭](https://url.kr/3ckx1d) \(PW: 메일 참조, 유효기간: ~23.11.10\)
+[클릭](https://url.kr/2mhl8i) \(PW: 메일 참조, 유효기간: ~23.12.15\)
